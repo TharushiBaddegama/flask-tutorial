@@ -70,3 +70,7 @@ jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'endblock'. You p
 2024-04-22 18:52:16,202 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:54]
 2024-04-22 18:53:54,668 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:55]
 2024-04-22 18:55:30,990 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:55]
+2024-04-23 00:45:35,912 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:55]
+2024-04-23 00:52:10,446 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:55]
+2024-04-23 01:00:10,756 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:55]
+2024-04-23 01:02:08,015 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:55]
