@@ -62,3 +62,11 @@ Traceback (most recent call last):
 jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'endblock'. You probably made a nesting mistake. Jinja is expecting this tag, but currently looking for 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
 2024-04-22 15:48:01,664 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-11\app\__init__.py:45]
 2024-04-22 17:05:39,136 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-12\app\__init__.py:47]
+2024-04-22 18:12:59,960 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:54]
+2024-04-22 18:17:28,670 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:54]
+2024-04-22 18:27:51,323 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:54]
+2024-04-22 18:30:39,220 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:54]
+2024-04-22 18:49:57,902 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:54]
+2024-04-22 18:52:16,202 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:54]
+2024-04-22 18:53:54,668 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:55]
+2024-04-22 18:55:30,990 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-13\app\__init__.py:55]
