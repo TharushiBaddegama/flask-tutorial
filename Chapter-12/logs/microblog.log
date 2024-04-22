@@ -61,3 +61,4 @@ Traceback (most recent call last):
     {% endblock %}
 jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'endblock'. You probably made a nesting mistake. Jinja is expecting this tag, but currently looking for 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
 2024-04-22 15:48:01,664 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-11\app\__init__.py:45]
+2024-04-22 17:05:39,136 INFO: Microblog startup [in C:\Users\dhana\Documents\Bluechip Tecnologies Asia\The Flask Mega-Tutorial\Chapter-12\app\__init__.py:47]
